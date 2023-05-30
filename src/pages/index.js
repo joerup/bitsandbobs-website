@@ -28,6 +28,7 @@ export default function Home() {
         <a href="https://apps.apple.com/us/app/bits-and-bobs/id1554786457"><img src="download.svg" className={styles.download}/></a>
 
         <br/><br/><br/><br/><br/>
+        
       </main>
     </>
   )
