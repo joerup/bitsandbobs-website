@@ -63,6 +63,7 @@ export default function About(props) {
             </p>
             <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
           </div>
+          
         </div>
         
         <br/><br/><br/><br/><br/><br/>
