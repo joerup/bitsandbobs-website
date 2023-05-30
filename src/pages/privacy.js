@@ -2,7 +2,7 @@ import NextLink from "next/link";
 import Head from 'next/head';
 import { NextPage } from "next";
 import styles from '../styles/Home.module.css';
-import Header from '../components/Header.js';
+import Header from '../components/header.js';
 
 export default function About(props) {
   return (
@@ -63,7 +63,7 @@ export default function About(props) {
             </p>
             <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
           </div>
-          
+
         </div>
         
         <br/><br/><br/><br/><br/><br/>
