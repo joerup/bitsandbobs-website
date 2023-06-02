@@ -18,6 +18,7 @@ export default function Header({ props }) {
         <div className={styles.dropdown}>
           <img className={styles.dropbutton} src="https://img.icons8.com/metro/26/ffffff/menu.png"/>
           <div className={styles.dropdowncontent}>
+            <a href="/">Home</a>
             <a href="/support">Support</a>
             <a href="/privacy">Privacy</a>
           </div>
